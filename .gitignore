@@ -1,2 +1,3 @@
 **/**/media/**
 dmarket/db.sqlite3
+**/**/node_modules/
